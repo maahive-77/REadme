@@ -5,7 +5,7 @@
 <h1 align="left">Hi 👋, I'm Mahendra Kumar</h1>
 
 <h3 align="left">
-IT Support Engineer | Networking Enthusiast | BCA Student | Automation & Software Development
+IT Support Engineer | Networking Enthusiast | BCA  | Automation & Software Development
 </h3>
 
 <p align="left">
@@ -21,7 +21,7 @@ IT Support Engineer | Networking Enthusiast | BCA Student | Automation & Softwar
 
 ## 👨‍💻 About Me
 
-I'm an IT Support Engineer and BCA student passionate about **Networking, System Administration, Automation, Cybersecurity, and Software Development**.
+I'm an IT Support Engineer and BCA |**Networking, System Administration, Automation, Cybersecurity, and Software Development**.
 
 I enjoy troubleshooting real-world infrastructure problems, automating repetitive IT tasks, learning programming and DSA, and building practical projects.
 
